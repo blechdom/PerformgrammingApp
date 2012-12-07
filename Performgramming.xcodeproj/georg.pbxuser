@@ -1,0 +1,155 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* OSCDemo */ = {
+		activeExec = 0;
+		executables = (
+			56B13AEE1172D88400E1BC38 /* OSCDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* OSCDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {940, 674}}";
+			sepNavSelRange = "{334, 0}";
+			sepNavVisRange = "{0, 638}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* OSCDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1300, 3632}}";
+			sepNavSelRange = "{5147, 0}";
+			sepNavVisRange = "{4792, 829}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 56B13AEE1172D88400E1BC38 /* OSCDemo */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* OSCDemo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* OSCDemo */,
+		);
+		codeSenseManager = 56B13B011172D89200E1BC38 /* Code sense */;
+		executables = (
+			56B13AEE1172D88400E1BC38 /* OSCDemo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					762,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 292739204;
+			PBXWorkspaceStateSaveDate = 292739204;
+		};
+		perUserProjectItems = {
+			56B13B941172F5CB00E1BC38 /* PlistBookmark */ = 56B13B941172F5CB00E1BC38 /* PlistBookmark */;
+			56B13BA21172FBFC00E1BC38 /* PBXTextBookmark */ = 56B13BA21172FBFC00E1BC38 /* PBXTextBookmark */;
+			56B13BA51173010600E1BC38 /* PBXTextBookmark */ = 56B13BA51173010600E1BC38 /* PBXTextBookmark */;
+			56B13BA61173010600E1BC38 /* PBXTextBookmark */ = 56B13BA61173010600E1BC38 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 56B13B001172D89200E1BC38 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	56B13AEE1172D88400E1BC38 /* OSCDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = OSCDemo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	56B13B001172D89200E1BC38 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	56B13B011172D89200E1BC38 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	56B13B941172F5CB00E1BC38 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* OSCDemo-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIStatusBarHidden,
+		);
+		name = "/Users/georg/Desktop/OSCDemo/OSCDemo-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	56B13BA21172FBFC00E1BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* OSCDemoViewController.h */;
+		name = "OSCDemoViewController.h: 17";
+		rLen = 0;
+		rLoc = 334;
+		rType = 0;
+		vrLen = 638;
+		vrLoc = 0;
+	};
+	56B13BA51173010600E1BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* OSCDemoViewController.m */;
+		name = "OSCDemoViewController.m: 93";
+		rLen = 0;
+		rLoc = 3043;
+		rType = 0;
+		vrLen = 1615;
+		vrLoc = 1948;
+	};
+	56B13BA61173010600E1BC38 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* OSCDemoViewController.m */;
+		name = "OSCDemoViewController.m: 93";
+		rLen = 0;
+		rLoc = 3043;
+		rType = 0;
+		vrLen = 1772;
+		vrLoc = 1839;
+	};
+}

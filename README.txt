@@ -1,0 +1,1 @@
+/Users/kristin/Downloads/BetaBuilder.app/Contents/Resources/README
